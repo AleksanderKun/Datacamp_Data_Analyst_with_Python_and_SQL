@@ -99,7 +99,3 @@
 - [ ] Years that both players and critics loved
 - [ ] Sales in the best video game years
 <br>
-
-
-
-## Data Scientist Professional with Python
